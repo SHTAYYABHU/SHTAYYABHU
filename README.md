@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Your Syed Tayyab Hussain(SHTAYYABHU)
+- 👋 Hi, I’m Your Syed Tayyab Hussain (SHTAYYABHU)
 - 👀 I’m interested in various topics related to technology, programming, artificial intelligence, and personal development.
 - 🌱 I’m currently learning BS in Computer Science
 - 💞️ I’m looking to collaborate on open-source projects that involve innovative solutions to real-world problems. I'm also interested in contributing to projects related to web development and AI.
